@@ -1,0 +1,557 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_config.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sal.h
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\vadefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stddef.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wtime.inl
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\yvals.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\use_ansi.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdlib
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_11_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_12_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_13_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v5.0\include\vector_types.h
+f:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\support.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\float.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtwrn.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\algorithm
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\new
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\exception
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstddef
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstddef
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\eh.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\malloc.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\climits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iosfwd
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdbg.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\type_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ymath.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cfloat
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtr1common
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\typeinfo
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\intrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\setjmp.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\immintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wmmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\nmmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\smmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\tmmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\pmmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\emmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mm3dnow.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\complex
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ccomplex
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sstream
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\istream
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ios
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocnum
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\streambuf
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xiosbase
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdexcept
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstring
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ctype.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\locale.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xdebug
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\system_error
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cerrno
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\errno.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\share.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xcomplex
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\map
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtree
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfunctional
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\vector
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\config.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\defines.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\params.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\any.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\defines.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iostream
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\set
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\params.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\all_indices.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kdtree_index.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dynamic_bitset.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dist.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\defines.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\heap.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\allocator.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kdtree_single_index.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\heap.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\allocator.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kmeans_index.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dist.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\heap.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\allocator.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\logger.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdarg.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\defines.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\composite_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kdtree_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kmeans_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\linear_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\hierarchical_clustering_index.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dist.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\heap.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\allocator.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\lsh_index.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\heap.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\lsh_table.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iomanip
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocmon
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xloctime
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ctime
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dynamic_bitset.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\allocator.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\saving.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\autotuned_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\general.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\ground_truth.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\dist.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\index_testing.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\nn_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\result_set.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\logger.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\timer.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\sampling.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\matrix.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\random.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kdtree_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kdtree_single_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\kmeans_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\composite_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\linear_index.h
+f:\uiuc coursework\ece408\final_project_source_code\opencv\build\include\opencv2\flann\logger.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+f:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include\device_launch_parameters.h

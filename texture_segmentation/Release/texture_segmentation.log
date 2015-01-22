@@ -1,0 +1,53 @@
+﻿Build started 11/14/2013 6:59:18 AM.
+     1>Project "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\texture_segmentation.vcxproj" on node 2 (rebuild target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\Tan\AppData\Local\Temp\tmp98c22b38fdf54b2ab54317bbe45ce586.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\kernel.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.cu" -clean
+         
+         F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\kernel.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.cu" -clean 
+       CudaClean:
+         cmd.exe /C "C:\Users\Tan\AppData\Local\Temp\tmp2644a4f4063d4a2ba3e57349e7565e4e.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\main.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu" -clean
+         
+         F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\main.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu" -clean 
+       CudaClean:
+         cmd.exe /C "C:\Users\Tan\AppData\Local\Temp\tmpf0c77650c19b4db4964e199445396c39.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\support.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\support.cu" -clean
+         
+         F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\support.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\support.cu" -clean 
+       PrepareForBuild:
+         Creating directory "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\Release\".
+       InitializeBuildStatus:
+         Creating "Release\texture_segmentation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       AddCudaCompileDeps:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D_MBCS /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I. /FIcuda_runtime.h /c "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.cu" 
+       AddCudaCompileDeps:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D_MBCS /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I. /FIcuda_runtime.h /c "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu" 
+       AddCudaCompileDeps:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D_MBCS /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" /I. /FIcuda_runtime.h /c "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\support.cu" 
+       CudaBuild:
+         Compiling CUDA source file kernel.cu...
+         cmd.exe /C "C:\Users\Tan\AppData\Local\Temp\tmp058adbc206a84aa29f6b9d4933e86f63.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -gencode=arch=compute_10,code=\"sm_10,compute_10\" --use-local-env --cl-version 2010 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\kernel.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.cu"
+         
+         F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -gencode=arch=compute_10,code=\"sm_10,compute_10\" --use-local-env --cl-version 2010 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\kernel.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\kernel.cu" 
+         kernel.cu
+         tmpxft_00001cc4_00000000-2_kernel.cudafe1.gpu
+         tmpxft_00001cc4_00000000-7_kernel.cudafe2.gpu
+         kernel.cu
+         tmpxft_00001cc4_00000000-2_kernel.cudafe1.cpp
+         tmpxft_00001cc4_00000000-12_kernel.ii
+       CudaBuild:
+         Compiling CUDA source file main.cu...
+         cmd.exe /C "C:\Users\Tan\AppData\Local\Temp\tmp7de50073c3ac493aa0befe96087a1388.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -gencode=arch=compute_10,code=\"sm_10,compute_10\" --use-local-env --cl-version 2010 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\main.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu"
+         
+         F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -gencode=arch=compute_10,code=\"sm_10,compute_10\" --use-local-env --cl-version 2010 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\main.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu" 
+         main.cu
+     1>f:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\support.h(2): fatal error C1083: Cannot open include file: 'cv.hpp': No such file or directory
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\CUDA 5.0.targets(592,9): error MSB3721: The command ""C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\nvcc.exe" -gencode=arch=compute_10,code=\"sm_10,compute_10\" --use-local-env --cl-version 2010 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\include"     --keep-dir "Release" -maxrregcount=0  --machine 32 --compile     -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o "Release\main.cu.obj" "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\main.cu"" exited with code 2.
+     1>Done Building Project "F:\uiuc coursework\ece408\final_project_source_code\texture_segmentation\texture_segmentation\texture_segmentation.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:09.89
